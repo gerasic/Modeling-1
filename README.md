@@ -79,3 +79,6 @@
 
 ## Видео
 https://github.com/user-attachments/assets/45ac4342-73eb-42b3-8ecb-0d071f22632e
+
+## Видео угол < 90
+https://github.com/user-attachments/assets/0b175d47-8bb9-441f-b692-68341c273263
